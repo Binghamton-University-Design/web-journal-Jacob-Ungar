@@ -57,7 +57,7 @@ aside {
 }
 
 body {
-  font-family: 'Source Code Pro', monospace;
+  font-family: 'Avenir', monospace;
 }
 
 p {
@@ -72,7 +72,7 @@ img {
 
 h1, h2, h3, h4 {
   margin-top: 0;
-  font-family: 'Source Code Pro', monospace;
+  font-family: 'Avenir', monospace;
 }
 
 h4 {
